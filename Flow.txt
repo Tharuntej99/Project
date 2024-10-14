@@ -1,0 +1,12 @@
+/project-folder
+  ├── /images
+  │      ├── hero-background.jpg
+  │      ├── character1.jpg
+  │      ├── character2.jpg
+  │      ├── character3.jpg
+  │      ├── manhwa1.jpg
+  │      
+  │
+  ├── index.html
+  ├── style.css
+  └── script.js
